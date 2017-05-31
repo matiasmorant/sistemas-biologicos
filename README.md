@@ -6,3 +6,27 @@ Están hechos en
 
 * Mathematica (Matias Morant)
 * Python (Bruno Kaufman)
+
+##TODO
+
+* 1
+ - 1
+ - 2
+ - 3
+ - 4
+ - 5
+* 2
+ - 1
+ - 2
+ - 3
+ - 4
+ - 5
+* 3
+ - 1
+ - 2
+ - 3
+ - 4
+* 4
+ - 1
+ - 2
+ - 3
