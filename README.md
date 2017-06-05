@@ -16,8 +16,8 @@ Están hechos en
  - 4
  - 5
 * 2
- - 1
- - 2
+ - 1 N=0 es siempre estable, independiente de n? qué hay que plantear entonces?
+ - 2 No es un plano?
  - 3
  - 4
  - 5
