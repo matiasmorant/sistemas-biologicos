@@ -10,7 +10,7 @@ Están hechos en
 ##TODO
 
 * 1
- - 1
+ - 1 ¿y las otras soluciones periodicas?
  - 2
  - 3
  - 4
@@ -18,7 +18,7 @@ Están hechos en
 * 2
  - 1 N=0 es siempre estable, independiente de n? qué hay que plantear entonces?
  - 2 No es un plano?
- - 3
+ - 3 los p=x? hay que encontrar puntos fijos y estabilidad?
  - 4
  - 5
 * 3
