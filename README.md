@@ -16,9 +16,9 @@ Están hechos en
  - 4
  - 5
 * 2
- - 1 x N=0 es siempre estable, independiente de n? qué hay que plantear entonces?
+ - 1 x Segunda parte
  - 2 x No es un plano?
- - 3 x los p=x? hay que encontrar puntos fijos y estabilidad?
+ - 3 x hay que encontrar puntos fijos y estabilidad?
  - 4 x está bien mi modelo?
  - 5 x no hay que hacer nada?
 * 3
@@ -30,3 +30,10 @@ Están hechos en
  - 1 x
  - 2
  - 3
+* 5
+ - 1
+ - 2 x
+ - 3 x ¿eso solo?
+ - 4
+ - 5
+ - 6
